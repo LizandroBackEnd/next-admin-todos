@@ -11,5 +11,6 @@ docker compose up -d
 # Prisma commands 
 ```bash
 npx prisma init 
-npx prisma migrate dev
+npx prisma migrate dev 
+npx prisma generate
 ```
